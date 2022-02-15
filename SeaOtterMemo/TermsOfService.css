@@ -1,0 +1,36 @@
+.contentWrapper {
+    padding-bottom: 0px;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 64px;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
+}
+
+.title {
+    font-size: 52px;
+    font-weight: bold;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.abstract {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.subTitle {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.sentence {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+
+.date {
+    font-size: 32px;
+    text-align: center;
+}
