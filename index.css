@@ -1,0 +1,37 @@
+.label {
+    font-size: 44px;
+    font-weight: bold;
+}
+
+.appList {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+}
+
+.listItem {
+    border: 1px solid #000000;
+    display: flex;
+    height: 200px;
+    margin-top: 8px;
+    padding: 16px;
+    width: 80%;
+}
+
+.icon {
+    height: 160px;
+    width: 160px;
+}
+
+.devlopmentNow {
+    font-size: 32px;
+    font-weight: bold;
+    padding-left: 32px;
+}
+
+.contact {
+    font-size: 32px;
+    text-align: center;
+}
